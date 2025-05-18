@@ -1,0 +1,125 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Star_Jalsha_logo.svg/1200px-Star_Jalsha_logo.svg.png", Star Jalsha
+https://example.com/starjalsha.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Zee_Bangla_logo.svg/1200px-Zee_Bangla_logo.svg.png", Zee Bangla
+https://example.com/zeebangla.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.in" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Channel24_Bangladesh_logo.svg/1200px-Channel24_Bangladesh_logo.svg.png", Channel 24
+https://example.com/channel24.m3u8
+
+#EXTINF:-1 tvg-id="NTV.in" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/NTV_Bangladesh_logo.svg/1200px-NTV_Bangladesh_logo.svg.png", NTV Bangladesh
+https://example.com/ntv.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.in" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/ATN_Bangla_logo.svg/1200px-ATN_Bangla_logo.svg.png", ATN Bangla
+https://example.com/atnbangla.m3u8
+
+#EXTINF:-1 tvg-id="BTV.in" tvg-name="Bangladesh Television (BTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTV_logo.svg/1200px-BTV_logo.svg.png", Bangladesh Television (BTV)
+https://example.com/btv.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV.in" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Somoy_TV_logo.svg/1200px-Somoy_TV_logo.svg.png", Somoy TV
+https://example.com/somoytv.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.in" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Ekushey_TV_logo.svg/1200px-Ekushey_TV_logo.svg.png", Ekushey TV
+https://example.com/ekusheytv.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Channel_9_Bangladesh_logo.svg/1200px-Channel_9_Bangladesh_logo.svg.png", Channel 9
+https://example.com/channel9.m3u8
+
+#EXTINF:-1 tvg-id="DeshTV.in" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Desh_TV_logo.svg/1200px-Desh_TV_logo.svg.png", Desh TV
+https://example.com/deshtv.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.in" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png", ATN News
+https://example.com/atnnews.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.in" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Jamuna_TV_logo.svg/1200px-Jamuna_TV_logo.svg.png", Jamuna TV
+https://example.com/jamunatv.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV.in" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Independent_TV_logo.svg/1200px-Independent_TV_logo.svg.png", Independent TV
+https://example.com/independenttv.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.in" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Gazi_TV_logo.svg/1200px-Gazi_TV_logo.svg.png", Gazi TV
+https://example.com/gazitv.m3u8
+
+#EXTINF:-1 tvg-id="Rtv.in" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/RTV_Bangladesh_logo.svg/1200px-RTV_Bangladesh_logo.svg.png", RTV
+https://example.com/rtv.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.in" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/My_TV_logo.svg/1200px-My_TV_logo.svg.png", My TV
+https://example.com/mytv.m3u8
+
+#EXTINF:-1 tvg-id="Channeli.in" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Channel_i_logo.svg/1200px-Channel_i_logo.svg.png", Channel i
+https://example.com/channeli.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision.in" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Banglavision_logo.svg/1200px-Banglavision_logo.svg.png", Banglavision
+https://example.com/banglavision.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.in" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishakhi TV
+https://example.com/boishakhitv.m3u8
+
+#EXTINF:-1 tvg-id="Ekattor.in" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor TV
+https://example.com/ekattortv.m3u8
+
+#EXTINF:-1 tvg-id="SangsadTV.in" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Sangsad_TV_logo.svg/1200px-Sangsad_TV_logo.svg.png", Sangsad TV
+https://example.com/sangsadtv.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.in" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Duronto_TV_logo.svg/1200px-Duronto_TV_logo.svg.png", Duronto TV
+https://example.com/durontotv.m3u8
+
+#EXTINF:-1 tvg-id="BangladeshSports.in" tvg-name="Bangladesh Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Bangladesh_Sports_logo.svg/1200px-Bangladesh_Sports_logo.svg.png", Bangladesh Sports
+https://example.com/bdsports.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.in" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Channel24_Bangladesh_logo.svg/1200px-Channel24_Bangladesh_logo.svg.png", Channel 24
+https://example.com/channel24.m3u8
+
+#EXTINF:-1 tvg-id="DeshTV.in" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Desh_TV_logo.svg/1200px-Desh_TV_logo.svg.png", Desh TV
+https://example.com/deshtv.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.in" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Jamuna_TV_logo.svg/1200px-Jamuna_TV_logo.svg.png", Jamuna TV
+https://example.com/jamunatv.m3u8
+
+#EXTINF:-1 tvg-id="NTV.in" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/NTV_Bangladesh_logo.svg/1200px-NTV_Bangladesh_logo.svg.png", NTV Bangladesh
+https://example.com/ntv.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV.in" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Somoy_TV_logo.svg/1200px-Somoy_TV_logo.svg.png", Somoy TV
+https://example.com/somoytv.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.in" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Ekushey_TV_logo.svg/1200px-Ekushey_TV_logo.svg.png", Ekushey TV
+https://example.com/ekusheytv.m3u8
+
+#EXTINF:-1 tvg-id="RTV.in" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/RTV_Bangladesh_logo.svg/1200px-RTV_Bangladesh_logo.svg.png", RTV
+https://example.com/rtv.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.in" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Gazi_TV_logo.svg/1200px-Gazi_TV_logo.svg.png", Gazi TV
+https://example.com/gazitv.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Channel_9_Bangladesh_logo.svg/1200px-Channel_9_Bangladesh_logo.svg.png", Channel 9
+https://example.com/channel9.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.in" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png", ATN News
+https://example.com/atnnews.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.in" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/My_TV_logo.svg/1200px-My_TV_logo.svg.png", My TV
+https://example.com/mytv.m3u8
+
+#EXTINF:-1 tvg-id="Channeli.in" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Channel_i_logo.svg/1200px-Channel_i_logo.svg.png", Channel i
+https://example.com/channeli.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision.in" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Banglavision_logo.svg/1200px-Banglavision_logo.svg.png", Banglavision
+https://example.com/banglavision.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.in" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishakhi TV
+https://example.com/boishakhitv.m3u8
+
+#EXTINF:-1 tvg-id="Ekattor.in" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor TV
+https://example.com/ekattortv.m3u8
+
+#EXTINF:-1 tvg-id="SangsadTV.in" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Sangsad_TV_logo.svg/1200px-Sangsad_TV_logo.svg.png", Sangsad TV
+https://example.com/sangsadtv.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.in" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Duronto_TV_logo.svg/1200px-Duronto_TV_logo.svg.png", Duronto TV
+https://example.com/durontotv.m3u8
+
+#EXTINF:-1 tvg-id="BangladeshSports.in" tvg-name="Bangladesh Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Bangladesh_Sports_logo.svg/1200px-Bangladesh_Sports_logo.svg.png", Bangladesh Sports
+https://example.com/bdsports.m3u8 
+

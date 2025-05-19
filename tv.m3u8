@@ -163,5 +163,6 @@ https://cbslive-i.akamaihd.net/hls/live/1007186/cbsnews/playlist.m3u8
 https://abcnews-video.akamaized.net/hls/live/2027334/abcnews/index.m3u8
 
 #EXTINF:-1 tvg-id="Star_Jalsha" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Star_Jalsha_logo.svg/1200px-Star_Jalsha_logo.svg.png",Star Jalsha
-https://starjalsha-stream-url.m3u8
+http://172.20.21.22/live/funtime112/index.m3u8
+
 

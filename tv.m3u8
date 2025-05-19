@@ -87,7 +87,7 @@ http://202.59.210.98:80/funtime/funtine/677.m3u8
 #EXTINF:-1 tvg-id="SONY_TEN_4" tvg-name="SONY TEN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KNSd-6GcS4Y2d2NyQxxGJS1nlgo8l4nSvQw&s",SONY TEN 4
 http://172.21.22.23:80/funtvlive/funtvlive/544.m3u8
 
-#EXTINF:-1 tvg-id="ZEE_BANGLA" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/Jn10SlT.png",Zee Bangla
+#EXTINF:-1 tvg-id="ZEE_BANGLA" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
 http://172.20.21.22/live/funtime111/index.m3u8
 
 #EXTINF:-1 tvg-id="ZEE_BANGLA_CINEMA" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/KKDL01d.png",Zee Bangla Cinema

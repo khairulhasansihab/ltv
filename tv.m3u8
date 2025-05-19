@@ -72,17 +72,8 @@ http://202.59.210.98:80/funtime/funtine/717.m3u8
 #EXTINF:-1 tvg-id="INDEPENDENT" tvg-name="INDEPENDENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDAqHDFY1BUWB61MOgDI0ruI_sMtYWOi5Gw&s",INDEPENDENT
 http://172.21.22.23:80/funtvlive/funtvlive/543.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON_NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",CARTOON NETWORK
-http://202.59.210.98:80/funtime/funtine/663.m3u8
-
 #EXTINF:-1 tvg-id="SONY_TEN_5" tvg-name="SONY TEN 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",SONY TEN 5
 http://tv.grandcablebd.com:80/funtime/funtine/751.m3u8
-
-#EXTINF:-1 tvg-id="ATN_NEWS" tvg-name="ATN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PzLYrDkO7qND7MCx4Tk_awS9J9PwOzcH6Q&s",ATN NEWS
-http://202.59.210.98:80/funtime/funtine/645.m3u8
-
-#EXTINF:-1 tvg-id="BTV_NATIONAL" tvg-name="BTV NATIONAL" tvg-logo="https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg",BTV NATIONAL
-http://202.59.210.98:80/funtime/funtine/677.m3u8
 
 #EXTINF:-1 tvg-id="SONY_TEN_4" tvg-name="SONY TEN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KNSd-6GcS4Y2d2NyQxxGJS1nlgo8l4nSvQw&s",SONY TEN 4
 http://172.21.22.23:80/funtvlive/funtvlive/544.m3u8
@@ -132,9 +123,6 @@ http://202.59.210.98:80/funtime/funtine/696.m3u8
 #EXTINF:-1 tvg-id="Nick_Cartoons_HD" tvg-name="Nick Cartoons HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png",Nick Cartoons HD
 http://172.20.21.22/live/funtime110/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC_World" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_News_2019.svg",BBC World News
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
-
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_International_logo.svg",CNN International
 http://cnn-cnninternational-1-cnn-live.hls.adaptive.level3.net/cnn-cnninternational-1-cnn-live/cnninternational.m3u8
 
@@ -155,12 +143,6 @@ https://rt-live.akamaized.net/hls/live/2022349/rt_main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHK_World" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/NHK_World_logo.svg",NHK World-Japan
 https://nhkworld-jp-live.akamaized.net/hls/live/2029690/nhkworld_jp/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS_News" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/CBS_News_logo.svg",CBS News
-https://cbslive-i.akamaihd.net/hls/live/1007186/cbsnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/ABC_News_logo_2014.svg",ABC News
-https://abcnews-video.akamaized.net/hls/live/2027334/abcnews/index.m3u8
 
 #EXTINF:-1 tvg-id="Star_Jalsha" tvg-name="Star Jalsha" tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg",Star Jalsha
 http://172.20.21.22/live/funtime112/index.m3u8

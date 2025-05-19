@@ -168,4 +168,7 @@ http://172.20.21.22/live/funtime112/index.m3u8
 #EXTINF:-1 tvg-id="Sony Atth " tvg-name="Sony Atth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Sony_Aath_logo.svg",Sony Atth
 http://172.20.21.22/live/skyfeed1016/index.m3u8
 
+#EXTINF:-1 tvg-id="CM" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",CN
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
 

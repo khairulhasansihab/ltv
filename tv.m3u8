@@ -129,7 +129,7 @@ http://202.59.210.98:80/funtime/funtine/695.m3u8
 #EXTINF:-1 tvg-id="Colors_TV_HD" tvg-name="Colors TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors TV HD
 http://202.59.210.98:80/funtime/funtine/696.m3u8
 
-#EXTINF:-1 tvg-id="Nick_Cartoons_HD" tvg-name="Nick Cartoons HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Nickelodeon_2023_logo.svg",Nick Cartoons HD
+#EXTINF:-1 tvg-id="Nick_Cartoons_HD" tvg-name="Nick Cartoons HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png",Nick Cartoons HD
 http://172.20.21.22/live/funtime110/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC_World" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_News_2019.svg",BBC World News

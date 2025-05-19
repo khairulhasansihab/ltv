@@ -1,125 +1,163 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Star_Jalsha_logo.svg/1200px-Star_Jalsha_logo.svg.png", Star Jalsha
-https://example.com/starjalsha.m3u8
+#EXTINF:-1 tvg-id="T_Sports" tvg-name="T Sports" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/T-Sports-Bangladesh-Logo.png",T Sports
+http://172.21.22.23:80/funtvlive/funtvlive/521.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Zee_Bangla_logo.svg/1200px-Zee_Bangla_logo.svg.png", Zee Bangla
-https://example.com/zeebangla.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_1" tvg-name="STAR SPORTS 1" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/starspoerts1.jpg",STAR SPORTS 1
+http://172.21.22.23:80/funtvlive/funtvlive/522.m3u8
 
-#EXTINF:-1 tvg-id="Channel24.in" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Channel24_Bangladesh_logo.svg/1200px-Channel24_Bangladesh_logo.svg.png", Channel 24
-https://example.com/channel24.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_2" tvg-name="STAR SPORTS 2" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SS2HD.jpg",STAR SPORTS 2
+http://172.21.22.23:80/funtvlive/funtvlive/523.m3u8
 
-#EXTINF:-1 tvg-id="NTV.in" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/NTV_Bangladesh_logo.svg/1200px-NTV_Bangladesh_logo.svg.png", NTV Bangladesh
-https://example.com/ntv.m3u8
+#EXTINF:-1 tvg-id="STAR_SPORTS_3" tvg-name="STAR SPORTS 3" tvg-logo="https://img1.pnghut.com/t/9/17/17/PpQHwjpENK/set-max-star-sports-sony-ten-3-2.jpg",STAR SPORTS 3
+http://172.21.22.23:80/funtvlive/funtvlive/524.m3u8
 
-#EXTINF:-1 tvg-id="ATNBangla.in" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/ATN_Bangla_logo.svg/1200px-ATN_Bangla_logo.svg.png", ATN Bangla
-https://example.com/atnbangla.m3u8
+#EXTINF:-1 tvg-id="Select_1" tvg-name="Select 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbTK8qR2RZgycMwOH_NK5kHGhYxUWUVMQZw&s",Select 1
+http://172.21.22.23:80/funtvlive/funtvlive/525.m3u8
 
-#EXTINF:-1 tvg-id="BTV.in" tvg-name="Bangladesh Television (BTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTV_logo.svg/1200px-BTV_logo.svg.png", Bangladesh Television (BTV)
-https://example.com/btv.m3u8
+#EXTINF:-1 tvg-id="Select_2" tvg-name="Select 2" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989affc420c3c1917b60341/1600329108394/Star-Sports-Select-2_logo.png",Select 2
+http://172.21.22.23:80/funtvlive/funtvlive/526.m3u8
 
-#EXTINF:-1 tvg-id="SomoyTV.in" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Somoy_TV_logo.svg/1200px-Somoy_TV_logo.svg.png", Somoy TV
-https://example.com/somoytv.m3u8
+#EXTINF:-1 tvg-id="SONY_TEN_1" tvg-name="SONY TEN 1" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SONY_SportsTen1_HD.png",SONY TEN 1
+http://172.21.22.23:80/funtvlive/funtvlive/527.m3u8
 
-#EXTINF:-1 tvg-id="EkusheyTV.in" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Ekushey_TV_logo.svg/1200px-Ekushey_TV_logo.svg.png", Ekushey TV
-https://example.com/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="SONY_TEN_2" tvg-name="SONY TEN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlxCJ6Nz1MIFt-Y-j1gLT5u4ba3VeVWf4Kw&s",SONY TEN 2
+http://172.21.22.23:80/funtvlive/funtvlive/528.m3u8
 
-#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Channel_9_Bangladesh_logo.svg/1200px-Channel_9_Bangladesh_logo.svg.png", Channel 9
-https://example.com/channel9.m3u8
+#EXTINF:-1 tvg-id="SONY_TEN_3" tvg-name="SONY TEN 3" tvg-logo="https://tvtick.com/img/channel/153.jpg",SONY TEN 3
+http://172.21.22.23:80/funtvlive/funtvlive/529.m3u8
 
-#EXTINF:-1 tvg-id="DeshTV.in" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Desh_TV_logo.svg/1200px-Desh_TV_logo.svg.png", Desh TV
-https://example.com/deshtv.m3u8
+#EXTINF:-1 tvg-id="PTV_SPORTS" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS
+http://172.21.22.23:80/funtvlive/funtvlive/531.m3u8
 
-#EXTINF:-1 tvg-id="ATNNews.in" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png", ATN News
-https://example.com/atnnews.m3u8
+#EXTINF:-1 tvg-id="A_SPORTS" tvg-name="A SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A SPORTS
+http://172.21.22.23:80/funtvlive/funtvlive/532.m3u8
 
-#EXTINF:-1 tvg-id="JamunaTV.in" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Jamuna_TV_logo.svg/1200px-Jamuna_TV_logo.svg.png", Jamuna TV
-https://example.com/jamunatv.m3u8
+#EXTINF:-1 tvg-id="EUROSPORTS" tvg-name="EUROSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s",EUROSPORTS
+http://172.21.22.23:80/funtvlive/funtvlive/533.m3u8
 
-#EXTINF:-1 tvg-id="IndependentTV.in" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Independent_TV_logo.svg/1200px-Independent_TV_logo.svg.png", Independent TV
-https://example.com/independenttv.m3u8
+#EXTINF:-1 tvg-id="CHANNEL24" tvg-name="CHANNEL24" tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png",CHANNEL24
+http://202.59.210.98:80/funtime/funtine/668.m3u8
 
-#EXTINF:-1 tvg-id="GaziTV.in" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Gazi_TV_logo.svg/1200px-Gazi_TV_logo.svg.png", Gazi TV
-https://example.com/gazitv.m3u8
+#EXTINF:-1 tvg-id="SOMOY_TV" tvg-name="SOMOY TV" tvg-logo="https://cdn.brandfetch.io/somoynews.tv/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",SOMOY TV
+http://172.21.22.23:80/funtvlive/funtvlive/534.m3u8
 
-#EXTINF:-1 tvg-id="Rtv.in" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/RTV_Bangladesh_logo.svg/1200px-RTV_Bangladesh_logo.svg.png", RTV
-https://example.com/rtv.m3u8
+#EXTINF:-1 tvg-id="TNT_SPORT_1" tvg-name="TNT SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdGAOA56Q5MrZmtE01gcihBxSVNLkEwRTag&s",TNT SPORT 1
+http://172.21.22.23:80/funtvlive/funtvlive/535.m3u8
 
-#EXTINF:-1 tvg-id="MyTV.in" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/My_TV_logo.svg/1200px-My_TV_logo.svg.png", My TV
-https://example.com/mytv.m3u8
+#EXTINF:-1 tvg-id="TNT_SPORTS_2" tvg-name="TNT SPORTS 2" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?bf=0&f=jpg&p=true&q=70&w=1920",TNT SPORTS 2
+http://172.21.22.23:80/funtvlive/funtvlive/536.m3u8
 
-#EXTINF:-1 tvg-id="Channeli.in" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Channel_i_logo.svg/1200px-Channel_i_logo.svg.png", Channel i
-https://example.com/channeli.m3u8
+#EXTINF:-1 tvg-id="TNT_SPORTS_3" tvg-name="TNT SPORTS 3" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/bc8e2117-5268-4e01-bbe9-e1b69a2f63bf.png?w=1200&f=PNG&p=true&q=60",TNT SPORTS 3
+http://172.21.22.23:80/funtvlive/funtvlive/537.m3u8
 
-#EXTINF:-1 tvg-id="Banglavision.in" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Banglavision_logo.svg/1200px-Banglavision_logo.svg.png", Banglavision
-https://example.com/banglavision.m3u8
+#EXTINF:-1 tvg-id="TNT_SPORTS_4" tvg-name="TNT SPORTS 4" tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI=w600-h300-pc0xffffff-pd",TNT SPORTS 4
+http://172.21.22.23:80/funtvlive/funtvlive/538.m3u8
 
-#EXTINF:-1 tvg-id="BoishakhiTV.in" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishakhi TV
-https://example.com/boishakhitv.m3u8
+#EXTINF:-1 tvg-id="WILLOW_CRICKET_2" tvg-name="WILLOW CRICKET 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHg52mMWlqF2L5H3WWA8PkvhmwYnZPWItPoQ&s",WILLOW CRICKET 2
+http://172.21.22.23:80/funtvlive/funtvlive/539.m3u8
 
-#EXTINF:-1 tvg-id="Ekattor.in" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor TV
-https://example.com/ekattortv.m3u8
+#EXTINF:-1 tvg-id="WILLOW_CRICKET" tvg-name="WILLOW CRICKET" tvg-logo="https://play-lh.googleusercontent.com/zsq3_vRxHUn3DIfQcQeenR3lh2WRi7C6m29U0UT-2Vporg3bPoouQT6xhVy90ayCCQ",WILLOW CRICKET
+http://172.21.22.23:80/funtvlive/funtvlive/540.m3u8
 
-#EXTINF:-1 tvg-id="SangsadTV.in" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Sangsad_TV_logo.svg/1200px-Sangsad_TV_logo.svg.png", Sangsad TV
-https://example.com/sangsadtv.m3u8
+#EXTINF:-1 tvg-id="GAZI_TV" tvg-name="GAZI TV" tvg-logo="https://lh3.googleusercontent.com/bV5KdAwxOhMpvTrO4P9v-2bii0XDJby0AvmyTxYViiCHF2CVNhkr09SPq7LSBqs2Xt8",GAZI TV
+http://172.21.22.23:80/funtvlive/funtvlive/541.m3u8
 
-#EXTINF:-1 tvg-id="DurontoTV.in" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Duronto_TV_logo.svg/1200px-Duronto_TV_logo.svg.png", Duronto TV
-https://example.com/durontotv.m3u8
+#EXTINF:-1 tvg-id="JAMUNA_TV" tvg-name="JAMUNA TV" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj",JAMUNA TV
+http://172.21.22.23:80/funtvlive/funtvlive/542.m3u8
 
-#EXTINF:-1 tvg-id="BangladeshSports.in" tvg-name="Bangladesh Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Bangladesh_Sports_logo.svg/1200px-Bangladesh_Sports_logo.svg.png", Bangladesh Sports
-https://example.com/bdsports.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO" tvg-name="NAT GEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHho7MCVSsS_wCZT9AHCdlH5ww6ZkqvWh-ZA&s",NAT GEO
+http://202.59.210.98:80/funtime/funtine/717.m3u8
 
-#EXTINF:-1 tvg-id="Channel24.in" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Channel24_Bangladesh_logo.svg/1200px-Channel24_Bangladesh_logo.svg.png", Channel 24
-https://example.com/channel24.m3u8
+#EXTINF:-1 tvg-id="INDEPENDENT" tvg-name="INDEPENDENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDAqHDFY1BUWB61MOgDI0ruI_sMtYWOi5Gw&s",INDEPENDENT
+http://172.21.22.23:80/funtvlive/funtvlive/543.m3u8
 
-#EXTINF:-1 tvg-id="DeshTV.in" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Desh_TV_logo.svg/1200px-Desh_TV_logo.svg.png", Desh TV
-https://example.com/deshtv.m3u8
+#EXTINF:-1 tvg-id="CARTOON_NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",CARTOON NETWORK
+http://202.59.210.98:80/funtime/funtine/663.m3u8
 
-#EXTINF:-1 tvg-id="JamunaTV.in" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Jamuna_TV_logo.svg/1200px-Jamuna_TV_logo.svg.png", Jamuna TV
-https://example.com/jamunatv.m3u8
+#EXTINF:-1 tvg-id="SONY_TEN_5" tvg-name="SONY TEN 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",SONY TEN 5
+http://tv.grandcablebd.com:80/funtime/funtine/751.m3u8
 
-#EXTINF:-1 tvg-id="NTV.in" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/NTV_Bangladesh_logo.svg/1200px-NTV_Bangladesh_logo.svg.png", NTV Bangladesh
-https://example.com/ntv.m3u8
+#EXTINF:-1 tvg-id="ATN_NEWS" tvg-name="ATN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PzLYrDkO7qND7MCx4Tk_awS9J9PwOzcH6Q&s",ATN NEWS
+http://202.59.210.98:80/funtime/funtine/645.m3u8
 
-#EXTINF:-1 tvg-id="SomoyTV.in" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Somoy_TV_logo.svg/1200px-Somoy_TV_logo.svg.png", Somoy TV
-https://example.com/somoytv.m3u8
+#EXTINF:-1 tvg-id="BTV_NATIONAL" tvg-name="BTV NATIONAL" tvg-logo="https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg",BTV NATIONAL
+http://202.59.210.98:80/funtime/funtine/677.m3u8
 
-#EXTINF:-1 tvg-id="EkusheyTV.in" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Ekushey_TV_logo.svg/1200px-Ekushey_TV_logo.svg.png", Ekushey TV
-https://example.com/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="SONY_TEN_4" tvg-name="SONY TEN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KNSd-6GcS4Y2d2NyQxxGJS1nlgo8l4nSvQw&s",SONY TEN 4
+http://172.21.22.23:80/funtvlive/funtvlive/544.m3u8
 
-#EXTINF:-1 tvg-id="RTV.in" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/RTV_Bangladesh_logo.svg/1200px-RTV_Bangladesh_logo.svg.png", RTV
-https://example.com/rtv.m3u8
+#EXTINF:-1 tvg-id="ZEE_BANGLA" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/Jn10SlT.png",Zee Bangla
+http://202.59.210.98:80/funtime/funtine/666.m3u8
 
-#EXTINF:-1 tvg-id="GaziTV.in" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Gazi_TV_logo.svg/1200px-Gazi_TV_logo.svg.png", Gazi TV
-https://example.com/gazitv.m3u8
+#EXTINF:-1 tvg-id="ZEE_BANGLA_CINEMA" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/KKDL01d.png",Zee Bangla Cinema
+http://202.59.210.98:80/funtime/funtine/667.m3u8
 
-#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Channel_9_Bangladesh_logo.svg/1200px-Channel_9_Bangladesh_logo.svg.png", Channel 9
-https://example.com/channel9.m3u8
+#EXTINF:-1 tvg-id="SONY_TV" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sony_TV_logo.svg",Sony TV
+http://202.59.210.98:80/funtime/funtine/685.m3u8
 
-#EXTINF:-1 tvg-id="ATNNews.in" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png", ATN News
-https://example.com/atnnews.m3u8
+#EXTINF:-1 tvg-id="ZEE_TV" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_TV_Logo.svg/1024px-Zee_TV_Logo.svg.png",Zee TV
+http://202.59.210.98:80/funtime/funtine/686.m3u8
 
-#EXTINF:-1 tvg-id="MyTV.in" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/My_TV_logo.svg/1200px-My_TV_logo.svg.png", My TV
-https://example.com/mytv.m3u8
+#EXTINF:-1 tvg-id="SONY_MAX" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sony_Max_logo.svg",Sony Max
+http://202.59.210.98:80/funtime/funtine/687.m3u8
 
-#EXTINF:-1 tvg-id="Channeli.in" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Channel_i_logo.svg/1200px-Channel_i_logo.svg.png", Channel i
-https://example.com/channeli.m3u8
+#EXTINF:-1 tvg-id="Colors_TV" tvg-name="Colors TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors TV
+http://202.59.210.98:80/funtime/funtine/688.m3u8
 
-#EXTINF:-1 tvg-id="Banglavision.in" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Banglavision_logo.svg/1200px-Banglavision_logo.svg.png", Banglavision
-https://example.com/banglavision.m3u8
+#EXTINF:-1 tvg-id="CARTOON_NICK" tvg-name="Nick Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Nickelodeon_2023_logo.svg",Nick Cartoon
+http://202.59.210.98:80/funtime/funtine/689.m3u8
 
-#EXTINF:-1 tvg-id="BoishakhiTV.in" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishakhi TV
-https://example.com/boishakhitv.m3u8
+#EXTINF:-1 tvg-id="SONY_MAX_2" tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sony_Max_2_Logo.png",Sony Max 2
+http://202.59.210.98:80/funtime/funtine/690.m3u8
 
-#EXTINF:-1 tvg-id="Ekattor.in" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png", Ekattor TV
-https://example.com/ekattortv.m3u8
+#EXTINF:-1 tvg-id="SONY_SAB" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sony_SAB_Logo.png",Sony SAB
+http://202.59.210.98:80/funtime/funtine/691.m3u8
 
-#EXTINF:-1 tvg-id="SangsadTV.in" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Sangsad_TV_logo.svg/1200px-Sangsad_TV_logo.svg.png", Sangsad TV
-https://example.com/sangsadtv.m3u8
+#EXTINF:-1 tvg-id="STAR_PLUS" tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Star_Plus_logo.svg",Star Plus
+http://202.59.210.98:80/funtime/funtine/692.m3u8
 
-#EXTINF:-1 tvg-id="DurontoTV.in" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Duronto_TV_logo.svg/1200px-Duronto_TV_logo.svg.png", Duronto TV
-https://example.com/durontotv.m3u8
+#EXTINF:-1 tvg-id="Colors_Cinema" tvg-name="Colors Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Colors_Cinema_Logo.png",Colors Cinema
+http://202.59.210.98:80/funtime/funtine/693.m3u8
 
-#EXTINF:-1 tvg-id="BangladeshSports.in" tvg-name="Bangladesh Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Bangladesh_Sports_logo.svg/1200px-Bangladesh_Sports_logo.svg.png", Bangladesh Sports
-https://example.com/bdsports.m3u8 
+#EXTINF:-1 tvg-id="Sony_TV_HD" tvg-name="Sony TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sony_TV_logo.svg",Sony TV HD
+http://202.59.210.98:80/funtime/funtine/694.m3u8
 
+#EXTINF:-1 tvg-id="Zee_TV_HD" tvg-name="Zee TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_TV_Logo.svg/1024px-Zee_TV_Logo.svg.png",Zee TV HD
+http://202.59.210.98:80/funtime/funtine/695.m3u8
+
+#EXTINF:-1 tvg-id="Colors_TV_HD" tvg-name="Colors TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors TV HD
+http://202.59.210.98:80/funtime/funtine/696.m3u8
+
+#EXTINF:-1 tvg-id="Nick_Cartoons_HD" tvg-name="Nick Cartoons HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Nickelodeon_2023_logo.svg",Nick Cartoons HD
+http://202.59.210.98:80/funtime/funtine/697.m3u8
+
+#EXTINF:-1 tvg-id="BBC_World" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BBC_World_News_2019.svg",BBC World News
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN_International_logo.svg",CNN International
+http://cnn-cnninternational-1-cnn-live.hls.adaptive.level3.net/cnn-cnninternational-1-cnn-live/cnninternational.m3u8
+
+#EXTINF:-1 tvg-id="Al_Jazeera" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Jazeera_English_logo.svg",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="France_24" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/France_24_Logo.svg/1200px-France_24_Logo.svg.png",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Deutsche_Welle_logo_2012.svg",DW News
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@512239/master.m3u8
+
+#EXTINF:-1 tvg-id="Sky_News" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Sky_News_logo_2020.svg/1200px-Sky_News_logo_2020.svg.png",Sky News
+https://skynews-lh.akamaihd.net/i/skynews_1@165780/master.m3u8
+
+#EXTINF:-1 tvg-id="RT" tvg-name="RT (Russia Today)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/RT_Logo.svg",RT (Russia Today)
+https://rt-live.akamaized.net/hls/live/2022349/rt_main/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK_World" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/NHK_World_logo.svg",NHK World-Japan
+https://nhkworld-jp-live.akamaized.net/hls/live/2029690/nhkworld_jp/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS_News" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/CBS_News_logo.svg",CBS News
+https://cbslive-i.akamaihd.net/hls/live/1007186/cbsnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC_News" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/ABC_News_logo_2014.svg",ABC News
+https://abcnews-video.akamaized.net/hls/live/2027334/abcnews/index.m3u8

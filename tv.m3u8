@@ -189,7 +189,8 @@ https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="জি বাংলা" tvg-name="জি বাংলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",জি বাংলা
 https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+#EXTINF:-1 tvg-id="ZEE BANGLA CHENEMA" tvg-name="ZEE BANGLA CHENEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",ZEE BANGLA CHENEMA
+https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 

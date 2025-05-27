@@ -294,7 +294,11 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png",HBO
 http://starshare.org/live/kumar11/kumar11/423865.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+#EXTINF:-1 tvg-id="Star Jolsha HD" tvg-name="Star Jolsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jolsha HD
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 
@@ -317,3 +321,22 @@ http://starshare.org/live/kumar11/kumar11/423865.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+

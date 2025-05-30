@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Zee Bangla HD" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
-#EXTINF:-1 tvg-id="Zee Bangla 720p" tvg-name="Zee Bangla 720p" tvg-logo="http://smart.bengaldigital.live/Zee-Bangla/index.m3u8",Zee Bangla 720p
+#EXTINF:-1 tvg-id="Sanonda TV" tvg-name="Sanonda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sanonda TV
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Jolsha HD" tvg-name="Star Jolsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jolsha HD

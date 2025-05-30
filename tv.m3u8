@@ -351,7 +351,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony aath hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Popular Channel-(জনপ্রিয় চ্যানেল)",Sony aath HD
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+#EXTINF:-1 tvg-id="Star Gold HD" tvg-name="Star Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg",Star Gold HD
+http://opplex.ch/live/3525532727/9752528282/66177.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 

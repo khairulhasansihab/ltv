@@ -9,7 +9,8 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="Star Jolsha HD" tvg-name="Star Jolsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jolsha HD
 http://opplex.ch/live/3525532727/9752528282/245898.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+#EXTINF:-1 tvg-id="Colors HD" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/800px-Colors_TV_logo.svg.png",Colors HD
+http://opplex.ch/live/3525532727/9752528282/66167.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 

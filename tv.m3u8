@@ -1104,10 +1104,11 @@ http://172.21.22.23:80/funtvlive/funtvlive/554.m3u8
 http://172.21.22.23:80/funtvlive/funtvlive/555.m3u8
 
 
-#EXTINF:-1 tvg-id="Arg vs Chili" tvg-name="Arg vs Chili" tvg-logo="https://en.m.wikipedia.org/wiki/File:Asociaci%C3%B3n_del_F%C3%BAtbol_Argentino_(crest).svg" group-title="AFCQ",Arg vs Chile
+#EXTINF:-1 tvg-id="Arg vs Chili" tvg-name="Arg vs Chili" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_Map_of_Bangladesh.png",Arg vs Chile
 https://storage.googleapis.com/unictertivovo1/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
+#EXTINF:-1 tvg-id="ARG VS CHILE" tvg-name="ARG VS CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_Map_of_Bangladesh.png",ARG VS CHILE
+https://06a49cbe85e7.us-west-2.playback.live-video.net/api/video/v1/us-west-2.531145710021.channel.aAAWiZh9uhHM.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 

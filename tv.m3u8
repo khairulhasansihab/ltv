@@ -995,120 +995,19 @@ https://pixeldra.in/api/file/kXsthFko?download
 
 #EXTGRP:FUNTIME
 
-#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/T-Sports-Bangladesh-Logo.png" group-title="FUNTIME",T Sports
-http://172.21.22.23:80/funtvlive/funtvlive/521.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Funtime",Star Jolsha
+http://172.20.21.22/live/funtime112/index.m3u8
 
-#EXTINF:-1 tvg-id="STAR SPORTS 1" tvg-name="STAR SPORTS 1" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/starspoerts1.jpg" group-title="FUNTIME",STAR SPORTS 1
-http://172.21.22.23:80/funtvlive/funtvlive/522.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Funtime",Zee bangla
+http://172.20.21.22/live/funtime111/index.m3u8
 
-#EXTINF:-1 tvg-id="STAR SPORTS 2" tvg-name="STAR SPORTS 2" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SS2HD.jpg" group-title="FUNTIME",STAR SPORTS 2
-http://172.21.22.23:80/funtvlive/funtvlive/523.m3u8
-
-#EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-name="STAR SPORTS 3" tvg-logo="https://img1.pnghut.com/t/9/17/17/PpQHwjpENK/set-max-star-sports-sony-ten-3-2.jpg" group-title="FUNTIME",STAR SPORTS 3
-http://172.21.22.23:80/funtvlive/funtvlive/524.m3u8
-
-#EXTINF:-1 tvg-id="Select 1" tvg-name="Select 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbTK8qR2RZgycMwOH_NK5kHGhYxUWUVMQZw&s" group-title="FUNTIME",Select 1
-http://172.21.22.23:80/funtvlive/funtvlive/525.m3u8
-
-#EXTINF:-1 tvg-id="Select 2" tvg-name="Select 2" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989affc420c3c1917b60341/1600329108394/Star-Sports-Select-2_logo.png" group-title="FUNTIME",Select 2
-http://172.21.22.23:80/funtvlive/funtvlive/526.m3u8
-
-#EXTINF:-1 tvg-id="SONY TEN 1" tvg-name="SONY TEN 1" tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SONY_SportsTen1_HD.png" group-title="FUNTIME",SONY TEN 1
-http://172.21.22.23:80/funtvlive/funtvlive/527.m3u8
-
-#EXTINF:-1 tvg-id="SONY TEN 2" tvg-name="SONY TEN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlxCJ6Nz1MIFt-Y-j1gLT5u4ba3VeVWf4Kw&s" group-title="FUNTIME",SONY TEN 2
-http://172.21.22.23:80/funtvlive/funtvlive/528.m3u8
-
-#EXTINF:-1 tvg-id="SONY TEN 3" tvg-name="SONY TEN 3" tvg-logo="https://tvtick.com/img/channel/153.jpg" group-title="FUNTIME",SONY TEN 3
-http://172.21.22.23:80/funtvlive/funtvlive/529.m3u8
-
-#EXTINF:-1 tvg-id="PTV SPORTS" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="FUNTIME",PTV SPORTS
-http://172.21.22.23:80/funtvlive/funtvlive/531.m3u8
-
-#EXTINF:-1 tvg-id="A SPORTS" tvg-name="A SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="FUNTIME",A SPORTS
-http://172.21.22.23:80/funtvlive/funtvlive/532.m3u8
-
-#EXTINF:-1 tvg-id="EUROSPORTS" tvg-name="EUROSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="FUNTIME",EUROSPORTS
-http://172.21.22.23:80/funtvlive/funtvlive/533.m3u8
-
-#EXTINF:-1 tvg-id="CHANNEL24" tvg-name="CHANNEL24" tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" group-title="FUNTIME",CHANNEL24
-http://202.59.210.98:80/funtime/funtine/668.m3u8
-
-#EXTINF:-1 tvg-id="SOMOY TV" tvg-name="SOMOY TV" tvg-logo="https://cdn.brandfetch.io/somoynews.tv/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" group-title="FUNTIME",SOMOY TV
-http://172.21.22.23:80/funtvlive/funtvlive/534.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORT 1" tvg-name="TNT SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdGAOA56Q5MrZmtE01gcihBxSVNLkEwRTag&s" group-title="FUNTIME",TNT SPORT 1
-http://172.21.22.23:80/funtvlive/funtvlive/535.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-name="TNT SPORTS 2" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="FUNTIME",TNT SPORTS 2
-http://172.21.22.23:80/funtvlive/funtvlive/536.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-name="TNT SPORTS 3" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/bc8e2117-5268-4e01-bbe9-e1b69a2f63bf.png?w=1200&f=PNG&p=true&q=60" group-title="FUNTIME",TNT SPORTS 3
-http://172.21.22.23:80/funtvlive/funtvlive/537.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORTS 4" tvg-name="TNT SPORTS 4" tvg-logo="https://play-lh.googleusercontent.com/L5QdK6pZeHse9Lz9uG5p7hJ1BMdE_uqIMM7WSxBKVRBi83dTHvUNOYPJ4FIg36ZSypI=w600-h300-pc0xffffff-pd" group-title="FUNTIME",TNT SPORTS 4
-http://172.21.22.23:80/funtvlive/funtvlive/538.m3u8
-
-#EXTINF:-1 tvg-id="WILLOW CRICKET 2" tvg-name="WILLOW CRICKET 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHg52mMWlqF2L5H3WWA8PkvhmwYnZPWItPoQ&s" group-title="FUNTIME",WILLOW CRICKET 2
-http://172.21.22.23:80/funtvlive/funtvlive/539.m3u8
-
-#EXTINF:-1 tvg-id="WILLOW CRICKET" tvg-name="WILLOW CRICKET" tvg-logo="https://play-lh.googleusercontent.com/zsq3_vRxHUn3DIfQcQeenR3lh2WRi7C6m29U0UT-2Vporg3bPoouQT6xhVy90ayCCQ" group-title="FUNTIME",WILLOW CRICKET
-http://172.21.22.23:80/funtvlive/funtvlive/540.m3u8
-
-#EXTINF:-1 tvg-id="GAZI TV" tvg-name="GAZI TV" tvg-logo="https://lh3.googleusercontent.com/bV5KdAwxOhMpvTrO4P9v-2bii0XDJby0AvmyTxYViiCHF2CVNhkr09SPq7LSBqs2Xt8" group-title="FUNTIME",GAZI TV
-http://172.21.22.23:80/funtvlive/funtvlive/541.m3u8
-
-#EXTINF:-1 tvg-id="JAMUNA TV" tvg-name="JAMUNA TV" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="FUNTIME",JAMUNA TV
-http://172.21.22.23:80/funtvlive/funtvlive/542.m3u8
-
-#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHho7MCVSsS_wCZT9AHCdlH5ww6ZkqvWh-ZA&s" group-title="FUNTIME",NAT GEO
-http://202.59.210.98:80/funtime/funtine/717.m3u8
-
-#EXTINF:-1 tvg-id="INDEPENDENT" tvg-name="INDEPENDENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDAqHDFY1BUWB61MOgDI0ruI_sMtYWOi5Gw&s" group-title="FUNTIME",INDEPENDENT
-http://172.21.22.23:80/funtvlive/funtvlive/543.m3u8
-
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.png" group-title="FUNTIME",CARTOON NETWORK
-http://172.21.22.23:80/funtvlive/funtvlive/544.m3u8
-
-#EXTINF:-1 tvg-id="MANGO TV" tvg-name="MANGO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfby4IVy5iycjQYrA5pLYCYKUxGPJKKX-QQ&s" group-title="FUNTIME",MANGO TV
-http://172.21.22.23:80/funtvlive/funtvlive/545.m3u8
-
-#EXTINF:-1 tvg-id="Sony BBC Earth" tvg-name="Sony BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sony_BBC_Earth_logo.svg/1200px-Sony_BBC_Earth_logo.svg.png" group-title="FUNTIME",Sony BBC Earth
-http://172.21.22.23:80/funtvlive/funtvlive/546.m3u8
-
-#EXTINF:-1 tvg-id="SONY TV" tvg-name="SONY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Sony_Entertainment_Television_logo.png" group-title="FUNTIME",SONY TV
-http://172.21.22.23:80/funtvlive/funtvlive/547.m3u8
-
-#EXTINF:-1 tvg-id="STAR Jalsha" tvg-name="STAR Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Star_Jalsha_logo.png" group-title="FUNTIME",STAR Jalsha
-http://172.21.22.23:80/funtvlive/funtvlive/548.m3u8
-
-#EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Zee_Bangla_logo.svg/1200px-Zee_Bangla_logo.svg.png" group-title="FUNTIME",Zee Bangla
-http://172.21.22.23:80/funtvlive/funtvlive/549.m3u8
-
-#EXTINF:-1 tvg-id="Star Jalsha HD" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Star_Jalsha_logo.png" group-title="FUNTIME",Star Jalsha HD
-http://172.21.22.23:80/funtvlive/funtvlive/550.m3u8
-
-#EXTINF:-1 tvg-id="Star Jalsha Movies" tvg-name="Star Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Star_Jalsha_logo.png" group-title="FUNTIME",Star Jalsha Movies
-http://172.21.22.23:80/funtvlive/funtvlive/551.m3u8
-
-#EXTINF:-1 tvg-id="Star Jalsha Super" tvg-name="Star Jalsha Super" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Star_Jalsha_logo.png" group-title="FUNTIME",Star Jalsha Super
-http://172.21.22.23:80/funtvlive/funtvlive/552.m3u8
-
-#EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Zee_Bangla_logo.svg/1200px-Zee_Bangla_logo.svg.png" group-title="FUNTIME",Zee Bangla Cinema
-http://172.21.22.23:80/funtvlive/funtvlive/553.m3u8
-
-#EXTINF:-1 tvg-id="Zee Bangla Serial" tvg-name="Zee Bangla Serial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Zee_Bangla_logo.svg/1200px-Zee_Bangla_logo.svg.png" group-title="FUNTIME",Zee Bangla Serial
-http://172.21.22.23:80/funtvlive/funtvlive/554.m3u8
-
-#EXTINF:-1 tvg-id="Star Jalsha Music" tvg-name="Star Jalsha Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Star_Jalsha_logo.png" group-title="FUNTIME",Star Jalsha Music
-http://172.21.22.23:80/funtvlive/funtvlive/555.m3u8
-
-
-#EXTINF:-1 tvg-id="Arg vs Chili" tvg-name="Arg vs Chili" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_Map_of_Bangladesh.png",Arg vs Chile
-https://storage.googleapis.com/unictertivovo1/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="ARG VS CHILE" tvg-name="ARG VS CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_Map_of_Bangladesh.png",ARG VS CHILE
-https://06a49cbe85e7.us-west-2.playback.live-video.net/api/video/v1/us-west-2.531145710021.channel.aAAWiZh9uhHM.m3u8
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
+#EXTINF:-1 tvg-logo=" group-title="Funtime",Star Jolsha
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",
 
